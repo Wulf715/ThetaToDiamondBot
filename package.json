@@ -1,8 +1,1 @@
-{
-  "name": "ThetaToDiamond",
-  "version": "1.0.0",
-  "description": "Theta to diamond converter, price wise that is.",
-  "main": "bot.js",
-  "author": "Wulf715",
-  "dependencies": {}
-}
+
